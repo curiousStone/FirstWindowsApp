@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestWinApp
-build_property.ProjectDir = C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\
+build_property.ProjectDir = C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

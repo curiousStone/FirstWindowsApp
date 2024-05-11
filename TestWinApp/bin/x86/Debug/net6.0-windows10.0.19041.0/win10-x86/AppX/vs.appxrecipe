@@ -10,14 +10,14 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>3c4cc0ba-73f4-476e-ba33-ec143f6740e5</PackageIdentityName>
     <PackageIdentityPublisher>CN=thore</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppX</LayoutDir>
+    <LayoutDir>C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppX</LayoutDir>
     <RegisteredManifestChecksum>EAB6E771C374FF0D512EACF1E83B8D97356211D2FC246F35915847BFEB17DDA5</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>3c4cc0ba-73f4-476e-ba33-ec143f6740e5_1.0.0.0_x86__w16erkr47n66t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>3c4cc0ba-73f4-476e-ba33-ec143f6740e5_w16erkr47n66t!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-05T09:36:21.461</Modified>
+      <Modified>2024-05-11T21:52:30.141</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\resources.pri">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-05T09:36:21.058</Modified>
+      <Modified>2024-05-11T21:52:29.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\TestWinApp.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\TestWinApp.runtimeconfig.json">
       <PackagePath>TestWinApp.runtimeconfig.json</PackagePath>
-      <Modified>2024-05-05T09:36:20.813</Modified>
+      <Modified>2024-05-11T21:52:29.624</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\TestWinApp.dll">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\TestWinApp.dll">
       <PackagePath>TestWinApp.dll</PackagePath>
-      <Modified>2024-05-05T09:36:20.168</Modified>
+      <Modified>2024-05-11T21:52:29.169</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\apphost.exe">
       <PackagePath>TestWinApp.exe</PackagePath>
-      <Modified>2024-05-05T09:36:20.188</Modified>
+      <Modified>2024-05-11T21:52:29.190</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\TestWinApp.deps.json">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\TestWinApp.deps.json">
       <PackagePath>TestWinApp.deps.json</PackagePath>
-      <Modified>2024-05-05T09:36:20.676</Modified>
+      <Modified>2024-05-11T21:52:29.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thore\.nuget\packages\microsoft.netcore.app.runtime.win-x86\6.0.29\runtimes\win-x86\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1013,33 +1013,33 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2023-07-28T17:58:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2024-05-04T20:39:32.054</Modified>
+      <Modified>2024-05-11T21:35:31.736</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-05-04T20:39:32.054</Modified>
+      <Modified>2024-05-11T21:35:31.737</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <Modified>2024-05-04T20:39:32.054</Modified>
+      <Modified>2024-05-11T21:35:31.737</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <Modified>2024-05-04T20:39:32.054</Modified>
+      <Modified>2024-05-11T21:35:31.737</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <Modified>2024-05-04T20:39:32.060</Modified>
+      <Modified>2024-05-11T21:35:31.739</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <Modified>2024-05-04T20:39:32.062</Modified>
+      <Modified>2024-05-11T21:35:31.739</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\thore\Source\Repos\curiousStone\FirstWindowsApp\TestWinApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2024-05-04T20:39:32.062</Modified>
+      <Modified>2024-05-11T21:35:31.740</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

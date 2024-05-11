@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9UXZFXMg5NUffZ5SOhGNwqv3m8rFSJqfs2gVG/N7NuFUBwBINPtMSAukK34es7U9OqXu9Uw2P+rilr4Wby7oiQ==",
+  "dgSpecHash": "w2RB3LrvVW+vqFB0vJwrxHxjg/IGY8lU81wF1u35Gxwie54tihTKhrCQGh8N8T2OydPfu1XC525ej5To886hOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thore\\OneDrive\\Projects\\VStudioProjects\\TestWinApp\\TestWinApp\\TestWinApp.csproj",
+  "projectFilePath": "C:\\Users\\thore\\Source\\Repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\TestWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thore\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
     "C:\\Users\\thore\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\microsoft.windowsappsdk.1.4.230913002.nupkg.sha512",

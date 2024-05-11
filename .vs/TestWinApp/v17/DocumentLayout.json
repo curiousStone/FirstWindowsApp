@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thore\\OneDrive\\Projects\\VStudioProjects\\TestWinApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB2CE70-FACD-415F-A568-12F6D812019E}|TestWinApp\\TestWinApp.csproj|c:\\users\\thore\\source\\repos\\curiousstone\\firstwindowsapp\\testwinapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CB2CE70-FACD-415F-A568-12F6D812019E}|TestWinApp\\TestWinApp.csproj|solutionrelative:testwinapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB2CE70-FACD-415F-A568-12F6D812019E}|TestWinApp\\TestWinApp.csproj|c:\\users\\thore\\source\\repos\\curiousstone\\firstwindowsapp\\testwinapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB2CE70-FACD-415F-A568-12F6D812019E}|TestWinApp\\TestWinApp.csproj|solutionrelative:testwinapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB2CE70-FACD-415F-A568-12F6D812019E}|TestWinApp\\TestWinApp.csproj|c:\\users\\thore\\source\\repos\\curiousstone\\firstwindowsapp\\testwinapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB2CE70-FACD-415F-A568-12F6D812019E}|TestWinApp\\TestWinApp.csproj|solutionrelative:testwinapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB2CE70-FACD-415F-A568-12F6D812019E}|TestWinApp\\TestWinApp.csproj|c:\\users\\thore\\source\\repos\\curiousstone\\firstwindowsapp\\testwinapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CB2CE70-FACD-415F-A568-12F6D812019E}|TestWinApp\\TestWinApp.csproj|solutionrelative:testwinapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestWinApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestWinApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:45:16.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestWinApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\MainWindow.xaml",
+              "RelativeToolTip": "TestWinApp\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T21:45:11.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TestWinApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\App.xaml.cs",
+              "RelativeToolTip": "TestWinApp\\App.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:42:09.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\App.xaml",
+              "RelativeDocumentMoniker": "TestWinApp\\App.xaml",
+              "ToolTip": "C:\\Users\\thore\\source\\repos\\curiousStone\\FirstWindowsApp\\TestWinApp\\App.xaml",
+              "RelativeToolTip": "TestWinApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T21:41:24.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
