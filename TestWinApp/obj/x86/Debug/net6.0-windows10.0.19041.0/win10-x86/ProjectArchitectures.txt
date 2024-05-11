@@ -1,0 +1,1 @@
+C:\Users\thore\OneDrive\Projects\VStudioProjects\TestWinApp\TestWinApp\TestWinApp.csproj;x86
